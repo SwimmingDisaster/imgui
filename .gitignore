@@ -59,3 +59,6 @@ examples/example_sdl_opengl3/example_sdl_opengl3
 ## Ignore binaries
 bin/
 bin-int/
+
+## Ignore makefiles
+Makefile
